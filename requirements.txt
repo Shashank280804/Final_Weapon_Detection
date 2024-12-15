@@ -86,7 +86,7 @@ scipy
 seaborn
 six
 smmap
-streamlit
+streamlit==1.33.0
 streamlit-webrtc
 sympy
 tenacity
